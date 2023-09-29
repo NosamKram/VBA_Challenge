@@ -1,0 +1,2 @@
+# VBA_Challenge  I relied heavily on the Home and Learn materials as well as several YouTube videos to complete this challenge.  I ran the scripts and asked for clarification through ChatGPT to check accuracy also.
+I did not combine the data for the final results, but I would have used PowerQuery to append the alphabetical data since I am very familiar with that tool.  Eyeballing the data for the year 2020 above, the stock with the; Greatest % Increase was CUOC; Greatest % Decrease was DMH; and Greatest Total Volume was DJH.
